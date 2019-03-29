@@ -1,0 +1,30 @@
+/*
+* Ruth Wilhelm
+* 3/25/19 
+* Project Name and Description 
+*/ 
+
+/* The universial selector */
+
+* { 
+   
+} 
+
+/* Body attributes here */
+
+body { 
+    
+     background-color: lightgoldenrodyellow; 
+} 
+
+img { 
+    
+    width: 250px; height: 200px; 
+}
+
+    #dog { width: 300px; height: 200px; float: left; } 
+    #book { width: 250px; height: 300px; }
+    #food { width: 250px; height: 300px; float: left }
+    #andrew { width: 500px; height: 300px; }
+    
+    
